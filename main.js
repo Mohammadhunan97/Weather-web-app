@@ -6,7 +6,7 @@ let data;
 let degrees;
 let forecast = document.getElementById('forecast');
 let date = document.getElementsByClassName('date')[0];
-let key = "b0088b86b4453b58674d9b728aee04ab";
+let key = /*KEY CENSORED*/
 let app;
 let farenheit;
 
